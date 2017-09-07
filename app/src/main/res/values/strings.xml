@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="delete_option">Delete</string>
+    <string name="order_option">Order</string>
+    <string name="empty_view_text">Add new Product</string>
+    <string name="currency">$</string>
+    <string name="quantity">Quantity</string>
+    <string name="name">Name of product</string>
+    <string name="info">Information</string>
+    <string name="price">Price</string>
+    <string name="q">Quantity</string>
+    <string name="empty_stock">Stock is empty</string>
+    <string name="title_new">Add New Product</string>
+    <string name="title_update">Edit Product</string>
+
+    <string name="error_name">Add name</string>
+    <string name="error_info">Add information</string>
+    <string name="error_price">Add price</string>
+    <string name="error_quantity">Add quantity</string>
+    <string name="error_image">Add Image</string>
+
+    <string name="dialog_delete">Delete product?</string>
+    <string name="dialog_delete_positive">Delete</string>
+    <string name="dialog_delete_negative">Cancel</string>
+    <string name="dialog_delete_error">Error with deleting product</string>
+    <string name="dialog_delete_no_error">Product deleted</string>
+
+
+    <string name="dialog_back">Product data was changed</string>
+    <string name="dialog_back_positive">Discard</string>
+    <string name="dialog_back_negative">Back to edit</string>
+
+    <string name="dialog_delete_all">Delete all products?</string>
+    <string name="dialog_delete_all_positive">Delete</string>
+    <string name="dialog_delete_all_negative">Cancel</string>
+    <string name="dialog_delete_all_no_products">No products to delete</string>
+    <string name="dialog_delete_all_deleted"> products deleted.</string>
+
+    <string name="product_saved">Product saved!</string>
+    <string name="product_saved_error">Error</string>
+</resources>
